@@ -1,2 +1,5 @@
-# SHT3x
-Biblioteca para el sensor SHT3x
+# Biblioteca Sensor SHT3X
+
+**Autores**: Joseph Santiago Portilla - Karen Stefania Mirama.
+
+Departamento de Ingeniería Electrónica - Universidad de Nariño, Pasto, Colombia.
